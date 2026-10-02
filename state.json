@@ -21,6 +21,7 @@
     "android14-5.15-2026-01": "196",
     "android14-5.15-2026-04": "202",
     "android14-5.15-2026-07": "208",
+    "android14-5.15-2026-10": "216",
     "android14-6.1-2025-07": "141",
     "android14-6.1-2025-08": "145",
     "android14-6.1-2025-09": "145",
@@ -34,7 +35,8 @@
     "android15-6.6-2025-10": "102",
     "android15-6.6-2026-01": "118",
     "android15-6.6-2026-04": "127",
-    "android15-6.6-2026-07": "139"
+    "android15-6.6-2026-07": "139",
+    "android15-6.6-2026-10": "143"
   },
   "builds": {
     "android12-5.10|237|SukiSU-Ultra": "2025-06|v4.2.0",
@@ -58,6 +60,7 @@
     "android14-5.15|196|SukiSU-Ultra": "2026-01|v4.2.0",
     "android14-5.15|202|SukiSU-Ultra": "2026-04|v4.2.0",
     "android14-5.15|208|SukiSU-Ultra": "2026-07|v4.2.0",
+    "android14-5.15|216|SukiSU-Ultra": "2026-10|v4.2.0",
     "android14-6.1|141|SukiSU-Ultra": "2025-07|v4.2.0",
     "android14-6.1|145|SukiSU-Ultra": "2025-09|v4.2.0",
     "android14-6.1|157|SukiSU-Ultra": "2025-12|v4.2.0",
@@ -68,6 +71,7 @@
     "android15-6.6|118|SukiSU-Ultra": "2026-01|v4.2.0",
     "android15-6.6|127|SukiSU-Ultra": "2026-04|v4.2.0",
     "android15-6.6|139|SukiSU-Ultra": "2026-07|v4.2.0",
+    "android15-6.6|143|SukiSU-Ultra": "2026-10|v4.2.0",
     "android15-6.6|92|SukiSU-Ultra": "2025-07|v4.2.0",
     "android15-6.6|98|SukiSU-Ultra": "2025-09|v4.2.0"
   }
